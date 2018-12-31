@@ -1,0 +1,1 @@
+[null,{"name":"Powitanie","temp":"user","event-type":"6","actions":[{"channel":"6","varName":"powitania","message":"**Witaj** ${tempVars(\"user\")} **na naszym serwerze!**\nTutaj dowiesz się wszystko o **naszym bocie** ","storage":"0","varName2":"","name":"Send Message"}]}]
